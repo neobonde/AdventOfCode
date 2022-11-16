@@ -1,0 +1,16 @@
+{
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+		"rust-lang.rust-analyzer",
+		"tomoki1207.vscode-input-sequence",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"tamasfe.even-better-toml",
+		"VisualStudioExptTeam.intellicode-api-usage-examples"
+	]
+    }
+  }
+}
