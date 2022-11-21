@@ -4,6 +4,7 @@
         "2015/day01b/Cargo.toml",
         "2015/day02/Cargo.toml",
         "2015/day03/Cargo.toml",
+        "2015/day04/Cargo.toml",
     ],
     "editor.rename.enablePreview": false
 }
