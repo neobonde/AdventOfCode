@@ -1,6 +1,3 @@
-
-use crate::present::Present;
-
 use super::present;
 
 #[test]
